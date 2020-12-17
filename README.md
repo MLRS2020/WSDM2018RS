@@ -8,7 +8,7 @@ predict a probability for the target variable
 
 ## 数据（KKBOX数据集）
 
-sample_submission.csv
+sample_submission
 
 > id和target
 
