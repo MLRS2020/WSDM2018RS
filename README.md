@@ -6,9 +6,11 @@ challenge：新歌、新歌手、新用户
 
 predict a probability for the target variable
 
-## 数据（KKBOX数据集）
+## 数据
 
-sample_submission.csv
+**（KKBOX数据集）**
+
+sample_submission 
 
 > id和target
 
