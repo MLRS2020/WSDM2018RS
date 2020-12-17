@@ -10,7 +10,7 @@ predict a probability for the target variable
 
 **（KKBOX数据集）**
 
-sample_submission
+sample_submission 
 
 > id和target
 
